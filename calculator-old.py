@@ -18,7 +18,7 @@ def basic_calculation():
                     multiply = num1*num2
                     print(f"your answer is {multiply}\n")
                 elif user_choice == "/" and num2 != 0:
-                    Reminder = num1/num2n
+                    Reminder = num1/num2
                     modulus = num1 % num2
                     print(
                         f"your answer is {Reminder} and modulus is {modulus}\n")
